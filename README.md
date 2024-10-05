@@ -20,13 +20,6 @@
 </a>
 </p>
 
-<h3 align="center">Insights</h3>
-
-<div align="center">
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aw4is&layout=compact&theme=default)
-
-</div>
 
 
 
