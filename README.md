@@ -1,8 +1,7 @@
-<h1 align="Center">  Hi There, I'm Awais <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1 align="Center">Hi There, I'm Awais <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
 - 💼 Second year Computer Science and Mathematics university student
 - 🌱 I’m currently learning backend technologies and concepts by focusing on Java and Spring
-
 
 <h3 align="center">Languages and Tools:</h3>
 
