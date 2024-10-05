@@ -1,6 +1,6 @@
 <h1 align="Center">  Hi There, I'm Awais <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-- 🌱 I’m currently learning React and C#
+- 🌱 I’m currently learning backend technologies and concepts
 
 
 <h3 align="center">Languages and Tools:</h3>
