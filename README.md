@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning backend technologies and concepts by focusing on Java and Spring
 - 💡 Interested in Web Development, Cloud Technologies, and learning new languages and frameworks in general
 
+
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
