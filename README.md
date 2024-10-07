@@ -22,6 +22,13 @@
 </a>
 </p>
 
+<br>
+
+<div align="center">
+    
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aw4is&layout=compact)
+
+</div>
 
 
 
