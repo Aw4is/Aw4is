@@ -26,7 +26,7 @@
 
 <div align="center">
     
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aw4is&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aw4is&layout=compact)
 
 </div>
 
