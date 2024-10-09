@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="10" height="40"/> 
 </a>
 </p>
 
@@ -28,8 +28,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aw4is&theme=tokyonight&layout=compact" style="height: 200px; border: 1px solid black; margin-right: 20px;"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aw4is&theme=tokyonight" alt="mystreak" style="height: 200px; border: 1px solid black;"/>
-
 </div>
 
 
