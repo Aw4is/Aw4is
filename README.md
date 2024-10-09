@@ -25,11 +25,19 @@
 <br>
 
 <div align="center">
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aw4is&theme=tokyonight&layout=compact)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aw4is&theme=tokyonight&layout=compact" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aw4is&theme=tokyonight" alt="mystreak"/>
+    </td>
+  </tr>
+</table>
 
 </div>
-
 
 
 <!---
