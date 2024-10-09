@@ -23,18 +23,12 @@
 </p>
 
 <br>
-<div align="center">
 
-<table border="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="padding-right: 20px; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aw4is&theme=tokyonight&layout=compact" style="height: 200px;"/>
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aw4is&theme=tokyonight" alt="mystreak" style="height: 200px;"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aw4is&theme=tokyonight&layout=compact" style="height: 200px; border: 1px solid black; margin-right: 20px;"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aw4is&theme=tokyonight" alt="mystreak" style="height: 200px; border: 1px solid black;"/>
 
 </div>
 
