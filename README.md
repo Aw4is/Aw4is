@@ -2,7 +2,7 @@
 
 - 💼 Third Year Computer Science and Mathematics university student
 - 🌱 I’m currently learning backend technologies and concepts by focusing on Java and Spring
-- 💡 Interested in Web Development (backend), Cloud Technologies, and learning new languages and frameworks in general
+- 💡 Interested in Web Development (backend) and learning new languages and frameworks in general
 
 
 <h3 align="center">Languages and Tools:</h3>
