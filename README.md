@@ -29,11 +29,7 @@
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aw4is&theme=tokyonight&layout=compact" style="height: 200px; border: 1px solid black; margin-right: 20px;"/>
-  
-</div>
 
 
 
