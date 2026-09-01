@@ -2,7 +2,7 @@
 
 - 💼 Mathematics and Computer Science Graduate
 - 🌱 I’m currently learning backend technologies and python
-- 💡 Interested in Web Development (backend) and learning new languages and frameworks in general
+- 💡 Interested in Web Development (backend) and AI/ML
 
 
 <h3 align="center">Languages and Tools:</h3>
