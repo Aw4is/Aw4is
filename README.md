@@ -1,8 +1,8 @@
 <h1 align="Center">Hi There, I'm Awais <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
 - 💼 Mathematics and Computer Science Graduate
-- 🌱 I’m currently learning backend technologies and python
-- 💡 Interested in Web Development (backend) and AI/ML
+- 🌱 Currently deepening my backend and AI/ML skills through cloud deployment, CI/CD and production-focused Python
+- 💡 Interested in Web Development (Backend) and AI/ML
 
 
 <h3 align="center">Languages and Tools:</h3>
